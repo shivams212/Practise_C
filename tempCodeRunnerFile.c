@@ -1,5 +1,4 @@
-
-// printf("%hd\n",sizeof(b));
-// printf("%ld\n",sizeof(c));
-// printf("%lld\n",sizeof(d));
-// hiucahkcvajk
+int n;
+// printf("Enter the Integer Value:");
+// scanf("%d",&n);
+// printf("The entered value is: %d",n);
