@@ -1,4 +1,2 @@
-int n;
-// printf("Enter the Integer Value:");
-// scanf("%d",&n);
-// printf("The entered value is: %d",n);
+ // struct Person p={"Shivam",1,50000};
+    // p.DoB.day=5;

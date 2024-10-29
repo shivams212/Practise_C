@@ -22,8 +22,11 @@ int age;
 float height;
 printf("ENter the value of name ,age and height:");
 
-scanf(" %s,%d,%f",&name,&age,&height);
+scanf(" %s %d %f",&name,&age,&height);
 printf("%s,%d,%f",name,age,height);
+
+//i/p->Shivam 14 1.1
+// o/p->Shivam,14,1.1
 
 
 }
