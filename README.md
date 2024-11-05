@@ -44,8 +44,8 @@
 
 ## Week 2: C++ Programming Concepts
 
--Object-Oriented Programming Basics
+- Object-Oriented Programming Basics
 
-    -Member Variables and Functions
-    -Constructors and Destructors
-
+    - Member Variables and Functions
+    - Constructors and Destructors
+        - ■
