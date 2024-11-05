@@ -1,6 +1,6 @@
-# Course Topics Overview
+## Course Topics Overview
 
-## Week 1: C Programming Fundamentals
+### Week 1: C Programming Fundamentals
 
 - Variables and Data Types
 
@@ -40,4 +40,12 @@
 
 - Input/Output Operations
 
-    
+    - Basic I/O Operations
+
+## Week 2: C++ Programming Concepts
+
+-Object-Oriented Programming Basics
+
+    -Member Variables and Functions
+    -Constructors and Destructors
+
