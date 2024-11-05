@@ -2,8 +2,8 @@
 
 ## Week 1: C Programming Fundamentals
 
-- Topic 1
-- Topic 2
-
-### Variables and Data Types
-
+- Variables and Data Types
+  - Ranges of Datatypes
+  - Predefined and User-defined Datatypes
+  - Storage Classes
+  - Scope of Variables
