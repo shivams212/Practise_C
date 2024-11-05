@@ -48,4 +48,4 @@
 
     - Member Variables and Functions
     - Constructors and Destructors
-        - ■ Default Constructor
+        - Default Constructor
