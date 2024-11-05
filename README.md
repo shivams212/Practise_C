@@ -1,6 +1,9 @@
-# This contains the topics that have been covered in the classes
+# Course Topics Overview
+
+## Week 1: C Programming Fundamentals
+
 - Topic 1
 - Topic 2
 
-## 
--- Topi
+### Variables and Data Types
+
