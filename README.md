@@ -73,22 +73,16 @@
     - String Types
         - Multibyte Strings
         - Unicode Strings
-    - Wide Characters (wchar_t, wstring)
-        - Wide Character Operations
+        - Wide Characters (wchar_t, wstring)
+        
+    - Wide Character Operations
         - wcout, wprintf
-setlocale, wstrcpy
-String Stream Operations
-String Capacity Management
-length, capacity, maxsize
-Memory Management
+        - setlocale, wstrcpy
+    - String Stream Operations
+    - String Capacity Management
+        - length, capacity, maxsize
 
-Dynamic Memory Allocation
-new and delete Operators
-malloc and free Functions
-Operator Overloading for new/delete
-Null Pointers (nullptr, NULL)
-Input/Output Operations
+    - Memory Management
 
-File Operations
-Standard I/O Streams (stdin, stdout, stderr)
-C++ I/O Streams (cin, cout, cerr)
+        - Dynamic Memory Allocation
+
