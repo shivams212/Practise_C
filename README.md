@@ -66,23 +66,37 @@
     - Unions
 
 - String Operations
+
     - C-style Strings
     - C++ String Class
         - getline()
-        - length() and size()
+        - length() and size()     - 
     - String Types
         - Multibyte Strings
         - Unicode Strings
         - Wide Characters (wchar_t, wstring)
-        
     - Wide Character Operations
         - wcout, wprintf
         - setlocale, wstrcpy
     - String Stream Operations
     - String Capacity Management
-        - length, capacity, maxsize
+       - length, capacity, maxsize
+        
+- Memory Management
+    - Dynamic Memory Allocation
+        - new and delete Operators
+        - malloc and free Functions
+    - Operator Overloading for new/delete
+    - Null Pointers (nullptr, NULL)
 
-    - Memory Management
+- Input/Output Operations
+    - File Operations
+    - Standard I/O Streams (stdin, stdout, stderr)
+    - C++ I/O Streams (cin, cout, cerr)
 
-        - Dynamic Memory Allocation
+### Week 3: 
 
+- Inheritance
+- access specifiers
+- this
+- static
