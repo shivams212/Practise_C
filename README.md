@@ -98,5 +98,26 @@
 
 - Inheritance
 - access specifiers
-- this
-- static
+- this keyword
+- static keyword
+- Method chaining
+- Typecasting
+- copy constructor, assignment operator
+- Compile Time Polymorphism
+- Function overloading
+- Operator overloading
+- const member function, const object
+- Inline member function
+- Macros
+- Virtual function
+- Virtual pointer, Virtual pointer
+- Dispatcher invoking
+- Pure virtual function
+- Abstract class
+- Bad alloc error
+
+### Week 4: C++ Programming Concepts
+
+- pointer and const combinations
+- virtual destructor
+- iostream, fstream, strstream
