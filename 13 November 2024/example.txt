@@ -1,0 +1,2 @@
+Hello, RAII!
+This file is being read using RAII idiom in C++.
