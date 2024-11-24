@@ -1,4 +1,4 @@
-    // for(i:v1)//range-based for loop
-    // {
-    //     cout<<x;
-    // }
+if(demolist.empty())
+    cout<<"Empty List\n";
+    else
+    cout<<"Not empty";

@@ -68,5 +68,11 @@ int main()
     //Using Vector Constructor
     vector<int> v8(v6);
     for(auto i:v8)  cout<<i<<" ";
+
+    cout<<endl;
+    vector<int> v9={1,2,3,4,5};
+    cout<<*v9.rbegin()<<endl;
+    cout<<*--v9.rend()<<endl;
     return 0;
 }
+
