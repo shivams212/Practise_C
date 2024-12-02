@@ -1,0 +1,39 @@
+Basic-Level Questions
+What are smart pointers, and how are they different from raw pointers in C++? (Theory)
+Implement a program to demonstrate the usage of std::unique_ptr for managing a dynamically allocated object.
+Write a code snippet to show how std::shared_ptr handles reference counting.
+Demonstrate the use of std::weak_ptr to avoid circular dependencies in shared pointers.
+Write a program to convert a raw pointer to a std::shared_ptr.
+How does std::unique_ptr transfer ownership of the managed object? Provide an example.
+Write a program to show how custom deleters can be used with std::shared_ptr.
+Explain the difference between std::unique_ptr and std::shared_ptr. Provide code examples for both.
+Write a program to demonstrate how to use std::make_unique to initialize a std::unique_ptr.
+Show how to reset and release a std::unique_ptr.
+
+-------------------------------------------------------
+-------------------------------------------------------
+Intermediate-Level Questions
+Create a program that demonstrates the use of std::weak_ptr in a shared ownership scenario.
+Write a program to demonstrate circular dependency using std::shared_ptr and resolve it using std::weak_ptr.
+Implement a factory function that returns a std::unique_ptr for creating objects.
+Demonstrate how to use std::enable_shared_from_this with std::shared_ptr.
+Write a program to create an array of objects managed by std::unique_ptr.
+Show how you can use std::shared_ptr with a custom reference counter.
+Write a program to simulate memory leaks and resolve them using smart pointers.
+Implement a small example of resource management (file handling or database connection) using std::shared_ptr.
+Write a program that uses a std::unique_ptr with a custom deleter.
+Demonstrate how to share ownership of a resource across multiple threads using std::shared_ptr.
+
+---------------------------------------------------------
+---------------------------------------------------------
+Advanced-Level Questions
+Write a program to implement your own simple MyUniquePtr class that mimics std::unique_ptr.
+Implement a custom smart pointer (MySharedPtr) that mimics std::shared_ptr with reference counting.
+Explain the differences between std::auto_ptr (deprecated) and std::unique_ptr with an example.
+Create a multi-threaded program that demonstrates thread safety with std::shared_ptr and std::weak_ptr.
+Write a program to implement object pooling using std::shared_ptr.
+Demonstrate how to prevent dangling pointers using smart pointers.
+Write a program that uses smart pointers for dependency injection in a small application.
+Explain how std::shared_ptr is implemented internally. (Theory and practice)
+Implement a program to compare the performance of raw pointers and smart pointers in a large-scale application.
+Write a program to demonstrate how std::shared_ptr can be used with a polymorphic base class and derived class.
