@@ -232,3 +232,6 @@
 - Socket Programming
 - Observer Design Pattern
 - Facade Design Pattern
+- Unit Testing
+- Debugging
+- SOLID Principle
