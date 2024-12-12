@@ -96,28 +96,139 @@
 
 ### Week 3: 
 
-- Inheritance
-- access specifiers
-- this keyword
-- static keyword
-- Method chaining
-- Typecasting
-- copy constructor, assignment operator
-- Compile Time Polymorphism
-- Function overloading
-- Operator overloading
-- const member function, const object
-- Inline member function
-- Macros
-- Virtual function
-- Virtual pointer, Virtual pointer
-- Dispatcher invoking
-- Pure virtual function
-- Abstract class
-- Bad alloc error
+- Object-Oriented Programming
+
+    - Inheritance and Relationships
+        - Inheritance Basics
+        - Access Specifiers
+        - 'is-a' vs 'has-a' Relationships
+        - Virtual Functions and Polymorphism
+            - Virtual Functions
+            - Pure Virtual Functions
+            - Virtual Destructors
+            - Virtual Pointer
+            - Abstract Classes
+
+    - Class Features
+        - this Pointer
+        - Static Members
+        - Method Chaining
+        - Const Members and Objects
+        - Inline Functions
+        - Copy and Move Semantics
+            - Copy Constructor
+            - Assignment Operator
+            - L-value and R-value References
+
+- Advanced Programming Concepts
+
+    - Templates
+        - Basic Templates
+        - Variadic Templates
+    - Memory Management
+        - RAII Pattern
+        - PIMPL Idiom
+        - Rule of 0/3/5
+        - Bad Alloc Error
+
+- Error Handling
+
+    - Exception Handling
+        - Try-Catch Blocks
+        - Throwing and Rethrowing
+        - Stack Unwinding
+
+- Type Management
+    - Typecasting
+    - Auto Keyword
+
+- I/O Operations
+    - IOStream
+    - FStream
+    - StrStream
+
+- Preprocessor
+    - Macros
+
 
 ### Week 4: C++ Programming Concepts
 
-- pointer and const combinations
-- virtual destructor
-- iostream, fstream, strstream
+- Auto keyword
+
+- Copy and Move semantics
+
+- L value, R value reference
+
+- Smart pointers
+
+    - Unique pointer
+    - Shared pointer
+    - Weak pointer
+    - Custom deleter
+    - Cyclic dependency
+
+- Typecasting
+
+    - Downcasting
+
+- STL
+
+    - Initialiser list STL
+    - Sequence containers
+
+        - Vector
+        - Array
+        - List
+        - Forward list
+        - Set
+        - Multiset
+        - Map
+        - Multimap
+
+    - Associative containers
+    - Unordered Associative containers
+    - Hashing
+
+- Functors
+
+- Callback functions
+
+- Lambda functions
+
+- Iterator
+
+### Week 5: C++ Programming Concepts
+
+- Iterator Invalidation
+- Function Pointer
+- Custom Smart Pointer
+- Custom deleter
+- Callback Functions
+- Typedef
+- Iterator next, advance
+- Multithreading
+    - Context Switching
+    - Mutex
+
+### Week 6: C++ Programming Concepts
+
+- Join, Detach
+- Lock Guard
+- Threads, Handles
+- Bitset
+- Copy, Fill, Generate, Transform, Remove if, Swap, Unique
+- Design Patterns
+    - Singleton Design Pattern
+    
+- Template Meta Programming
+- Thread Local
+- Hardware Concurrency
+
+### Week 7: C++ Programming Concepts
+
+- Async, Future
+- Conditional Variable
+- Unique Lock
+- Socket Programming
+- Observer Design Pattern
+- Facade Design Pattern
